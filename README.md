@@ -1,10 +1,10 @@
-|P004619|马克斯་韦伯文选 
+|I0DC30337|马克斯་韦伯文选 
 | --- | --- 
 |Alternative Title |འཇིག་རྟེན་ལ་འཇུག་པའི་བློ་སྦྱོང་།
 |Author| ཚེ་མཁར་རྒྱལ།
 |BDRC ID | W1KG14533
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P004619)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P004619/releases/download/v2/_plain_P004619.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P004619/releases/download/v2/_pages_P004619.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I0DC30337)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I0DC30337/releases/download/v2/_plain_I0DC30337.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I0DC30337/releases/download/v2/_pages_I0DC30337.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1KG14533)
